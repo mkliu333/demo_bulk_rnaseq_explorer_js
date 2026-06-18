@@ -1,4 +1,5 @@
 # demo_bulk_rnaseq_explorer_js
+## Duke University | Hartman Lab
 
 Hi everyone, here is the demo link for the Bulk RNA-seq Explorer:
 
